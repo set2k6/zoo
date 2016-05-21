@@ -1,0 +1,2 @@
+# zoo
+A prototypal inheritance
